@@ -1,9 +1,6 @@
 ---
 group: web-api
 title: Getting started with Magento
-menu_title: Getting started with Magento
-menu_order: 1
-menu_node:
 functional_areas:
   - Integration
 ---
